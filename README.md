@@ -21,6 +21,7 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 - 📲 **Reach me a**t: [kiejaana@gmail.com](mailto:kiejaana@gmail.com) or message me on either [LinkedIn](https://www.linkedin.com/in/kyana-marckx/) or [Discord](https://discordapp.com/users/602573427228016640)
 
 ## 🌐 Technologies & Skills
+<!-- TODO put links after the images -->
 
 ### ✏️ **Languages**
 
