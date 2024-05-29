@@ -18,7 +18,7 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 - 🎓 **Field of study**: Bachelor's degree in Applied Computer Sciences at University College Ghent
 - 🍨 **I currently work on/with**: [Ystra Ice](https://www.instagram.com/ystra_ice/)
 - 💃 **Spare time**: dance
-- 📲 **Reach me a**t: [kiejaana@gmail.com](mailto:kiejaana@gmail.com) or message me on either [LinkedIn](https://www.linkedin.com/in/kyana-marckx/) or [Discord](https://discordapp.com/users/602573427228016640)
+- 📲 **Reach me at**: [kiejaana@gmail.com](mailto:kiejaana@gmail.com) or message me on either [LinkedIn](https://www.linkedin.com/in/kyana-marckx/) or [Discord](https://discordapp.com/users/602573427228016640)
 
 ## 🌐 Technologies & Skills
 <!-- TODO put links after the images -->
