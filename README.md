@@ -24,36 +24,36 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 
 ### ✏️ **Languages**
 
-![Python](https://img.icons8.com/?size=25&id=l75OEUJkPAk4&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=25&id=108784&format=png&color=000000)
-![TypeScript](https://img.icons8.com/?size=25&id=Xf1sHBmY73hA&format=png&color=000000)
-![Java](https://img.icons8.com/?size=25&id=13679&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=25&id=qGUfLiYi1bRN&format=png&color=000000)
-![HTML](https://img.icons8.com/?size=25&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=25&id=21278&format=png&color=000000)
+![Python](https://img.icons8.com/?size=45&id=l75OEUJkPAk4&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=45&id=108784&format=png&color=000000)
+![TypeScript](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000)
+![Java](https://img.icons8.com/?size=45&id=13679&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=45&id=qGUfLiYi1bRN&format=png&color=000000)
+![HTML](https://img.icons8.com/?size=45&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=45&id=21278&format=png&color=000000)
 
 
 ### 📐 **Frameworks**
-![TensorFlow](https://img.icons8.com/?size=25&id=n3QRpDA7KZ7P&format=png&color=000000)
-![PyTorch](https://img.icons8.com/?size=25&id=jH4BpkMnRrU5&format=png&color=000000)
-![React](https://img.icons8.com/?size=25&id=asWSSTBrDlTW&format=png&color=000000)
-![Next.js](https://img.icons8.com/?size=25&id=MWiBjkuHeMVq&format=png&color=000000)
-![Node.js](https://img.icons8.com/?size=25&id=hsPbhkOH4FMe&format=png&color=000000)
-![Express.js](https://img.icons8.com/?size=25&id=SDVmtZ6VBGXt&format=png&color=000000)
+![TensorFlow](https://img.icons8.com/?size=45&id=n3QRpDA7KZ7P&format=png&color=000000)
+![PyTorch](https://img.icons8.com/?size=45&id=jH4BpkMnRrU5&format=png&color=000000)
+![React](https://img.icons8.com/?size=45&id=asWSSTBrDlTW&format=png&color=000000)
+![Next.js](https://img.icons8.com/?size=45&id=MWiBjkuHeMVq&format=png&color=000000)
+![Node.js](https://img.icons8.com/?size=45&id=hsPbhkOH4FMe&format=png&color=000000)
+![Express.js](https://img.icons8.com/?size=45&id=SDVmtZ6VBGXt&format=png&color=000000)
 
 
 ### 🔨 **Tools**
 
-![Git](https://img.icons8.com/?size=25&id=20906&format=png&color=000000)
-![GitHub](https://img.icons8.com/?size=25&id=3tC9EQumUAuq&format=png&color=000000)
-![Docker](https://img.icons8.com/?size=25&id=Wln8Z3PcXanx&format=png&color=000000)
-![Kubernetes](https://img.icons8.com/?size=25&id=cvzmaEA4kC0o&format=png&color=000000)
+![Git](https://img.icons8.com/?size=45&id=20906&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=45&id=3tC9EQumUAuq&format=png&color=000000)
+![Docker](https://img.icons8.com/?size=45&id=Wln8Z3PcXanx&format=png&color=000000)
+![Kubernetes](https://img.icons8.com/?size=45&id=cvzmaEA4kC0o&format=png&color=000000)
 
 
 ### 🍄 **Designs**
 
-![Canva](https://img.icons8.com/?size=25&id=iWw83PVcBpLw&format=png&color=000000)
-![Figma](https://img.icons8.com/?size=25&id=zfHRZ6i1Wg0U&format=png&color=000000)
+![Canva](https://img.icons8.com/?size=45&id=iWw83PVcBpLw&format=png&color=000000)
+![Figma](https://img.icons8.com/?size=45&id=zfHRZ6i1Wg0U&format=png&color=000000)
 
 
 ### 🎧 **Others**
