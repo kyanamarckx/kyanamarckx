@@ -36,7 +36,10 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 ### 📐 **Frameworks**
 ![TensorFlow](https://img.icons8.com/?size=45&id=n3QRpDA7KZ7P&format=png&color=000000)
 ![PyTorch](https://img.icons8.com/?size=45&id=jH4BpkMnRrU5&format=png&color=000000)
+![OpenCV](https://img.icons8.com/?size=45&id=apebs8fnmi4m&format=png&color=000000)
 ![React](https://img.icons8.com/?size=45&id=asWSSTBrDlTW&format=png&color=000000)
+![Pandas](https://img.icons8.com/?size=45&id=xSkewUSqtErH&format=png&color=000000)
+![Numpy](https://img.icons8.com/?size=45&id=aR9CXyMagKIS&format=png&color=000000)
 ![Next.js](https://img.icons8.com/?size=45&id=MWiBjkuHeMVq&format=png&color=000000)
 ![Node.js](https://img.icons8.com/?size=45&id=hsPbhkOH4FMe&format=png&color=000000)
 ![Express.js](https://img.icons8.com/?size=45&id=SDVmtZ6VBGXt&format=png&color=000000)
@@ -48,6 +51,7 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 ![GitHub](https://img.icons8.com/?size=45&id=3tC9EQumUAuq&format=png&color=000000)
 ![Docker](https://img.icons8.com/?size=45&id=Wln8Z3PcXanx&format=png&color=000000)
 ![Kubernetes](https://img.icons8.com/?size=45&id=cvzmaEA4kC0o&format=png&color=000000)
+![Postman](https://img.icons8.com/?size=45&id=EPbEfEa7o8CB&format=png&color=000000)
 
 
 ### 🍄 **Designs**
