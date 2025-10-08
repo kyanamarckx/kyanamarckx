@@ -12,12 +12,12 @@
 # Kyana's Code Universe ✨
 
 ## 💐 About Me 
-Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate software developer with interests in AI, Machine Learning, Deep Learning, Computer Vision and Web Development. Always eager to learn and explore new technologies.
+Hi, my name is **Kyana Marckx** and I am a 22-year old student, an AI Engineer to be and a passionate photographer. [Studio KMX](https://www.instagram.com/studiokmx.jpg/) began in the summer of ’25, created to share moments that speak louder than words.
 
 - 🌍 **Location**: Lierde, Belgium
-- 🎓 **Field of study**: Bachelor's degree in Applied Computer Sciences at University College Ghent
-- 🍨 **I currently work on/with**: [Ystra Ice](https://www.instagram.com/ystra_ice/)
-- 💃 **Spare time**: dance
+- 🎓 **Field of study**: Bachelor's degree in Applied Computer Sciences at University College Ghent, Microdegree in Creative Digital Design at VIVES University of Applied Sciences, Master's degree in Artificial Intelligence at Open University
+- 🍨 **The owner of**: [Studio KMX](https://www.instagram.com/studiokmx.jpg/)
+- 💃 **Spare time**: photographer, illustrator and designer
 - 📲 **Reach me at**: [kiejaana@gmail.com](mailto:kiejaana@gmail.com) or message me on either [LinkedIn](https://www.linkedin.com/in/kyana-marckx/) or [Discord](https://discordapp.com/users/602573427228016640)
 
 ## 🌐 Technologies & Skills
@@ -63,7 +63,7 @@ Hi, my name is **Kyana Marckx** and I am a 20-year old student! A passionate sof
 
 ### 🎧 **Others**
 
-Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Front-End Development, Back-End Development, Full-Stack Development
+Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Graphic Design, Photography, Entrepreneur
 
 
 ## 📊 GitHub Stats
