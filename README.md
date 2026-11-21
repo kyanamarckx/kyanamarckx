@@ -1,72 +1,78 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=favorite" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap" rel="stylesheet">
+
+
+<p style="text-align:center; font-weight:800; font-family:Doto; font-size:30pt"> 
+Hiiii, my name is Kyana :)
+</p>
+
+<p style="text-align:center; font-family:Doto; font-size:20pt">Welcome to my page!</p>
+
+
 <div align="center">
-
-<!-- # :heartpulse: kiejaana.github :heartpulse: -->
-Hiii! I'm **Kyana**, a 22-year old master's student, an AI Engineer to be and a passionate photographer.
-
+  <img src="tiger.svg" style="max-width:600px; width:100%" alt="ASCII tijger" />
 </div>
 
 
-## About Me 
-:earth_africa: Based in Lierde, Belgium
-
-:mortar_board: Bachelor's degree in Applied Computer Sciences at University College Ghent, Microdegree in Creative Digital Design at VIVES University of Applied Sciences
-
-:woman_student: Master's degree in Artificial Intelligence at Open University
-
-:sunny: Photographer, dancer, illustrator and designer
-
-:inbox_tray: Message me on either [LinkedIn](https://www.linkedin.com/in/kyana-marckx/) or [Discord](https://discordapp.com/users/602573427228016640)
 
 
-## Technologies & Skills
 
-### Languages
+## `01 - ABOUT ME`
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> Currently pursuing a Master's degree in Artificial Intelligence at Open Universiteit
 
-![Python](https://img.icons8.com/?size=45&id=l75OEUJkPAk4&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=45&id=108784&format=png&color=000000)
-![TypeScript](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000)
-![Java](https://img.icons8.com/?size=45&id=13679&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=45&id=qGUfLiYi1bRN&format=png&color=000000)
-![HTML](https://img.icons8.com/?size=45&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=45&id=21278&format=png&color=000000)
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> Bachelor's degree in Applied Computer Science at HOGENT, Microdegree in Creative Digital Design at VIVES
 
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> Based in the Flemish region, Belgium
 
-### Frameworks
-![TensorFlow](https://img.icons8.com/?size=45&id=n3QRpDA7KZ7P&format=png&color=000000)
-![PyTorch](https://img.icons8.com/?size=45&id=jH4BpkMnRrU5&format=png&color=000000)
-![OpenCV](https://img.icons8.com/?size=45&id=apebs8fnmi4m&format=png&color=000000)
-![React](https://img.icons8.com/?size=45&id=asWSSTBrDlTW&format=png&color=000000)
-![Pandas](https://img.icons8.com/?size=45&id=xSkewUSqtErH&format=png&color=000000)
-![Numpy](https://img.icons8.com/?size=45&id=aR9CXyMagKIS&format=png&color=000000)
-![Next.js](https://img.icons8.com/?size=45&id=MWiBjkuHeMVq&format=png&color=000000)
-![Node.js](https://img.icons8.com/?size=45&id=hsPbhkOH4FMe&format=png&color=000000)
-![Express.js](https://img.icons8.com/?size=45&id=SDVmtZ6VBGXt&format=png&color=000000)
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> Born on October 1<sup>st</sup>, 2003
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> Interested in the intersection between AI, data science, healthcare &amp; sports
 
 
-### Tools
 
-![Git](https://img.icons8.com/?size=45&id=20906&format=png&color=000000)
-![GitHub](https://img.icons8.com/?size=45&id=3tC9EQumUAuq&format=png&color=000000)
-![Docker](https://img.icons8.com/?size=45&id=Wln8Z3PcXanx&format=png&color=000000)
-![Kubernetes](https://img.icons8.com/?size=45&id=cvzmaEA4kC0o&format=png&color=000000)
-![Postman](https://img.icons8.com/?size=42&id=EPbEfEa7o8CB&format=png&color=000000)
+## `02 - TECH STACK`
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> **LANGUAGES**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,mysql,html,css&theme=dark" alt="Technology icons" />
+</p>
 
 
-### Designs
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> **FRAMEWORKS**
 
-![Canva](https://img.icons8.com/?size=44&id=iWw83PVcBpLw&format=png&color=000000)
-![Figma](https://img.icons8.com/?size=42&id=zfHRZ6i1Wg0U&format=png&color=000000)
-![Illustrator](https://img.icons8.com/?size=45&id=13631&format=png&color=000000)
-![Photoshop](https://img.icons8.com/?size=45&id=13677&format=png&color=000000)
-![InDesign](https://img.icons8.com/?size=45&id=13675&format=png&color=000000)
-![Premiere Pro](https://img.icons8.com/?size=45&id=e57Y1CnsOasB&format=png&color=000000)
-![After Effects](https://img.icons8.com/?size=45&id=108781&format=png&color=000000)
-![Lightroom](https://img.icons8.com/?size=45&id=19313&format=png&color=000000)
----
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,react&theme=dark" alt="Technology icons" />
+</p>
 
-<!-- ## Random Quote -->
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> **TOOLS**
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Technology icons" />
+</p>
+
+
+
+## `03 - BEYOND THE CODE`
+When I'm not studying or working on something tech-related, you'll probably find me doing one of these:
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> **GYM** &emsp; training four times a week and always pushing myself to the limit
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> **HEELS (DANCE)** &emsp; moving with confidence and expressing in a creative way
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#85983C">favorite </span> **PHOTOGRAPHY** &emsp; taking pics of everything that catches my eye
+
+
+
+## `04 - CONNECT WITH ME`
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> [LinkedIn](www.linkedin.com/in/kyana-marckx)
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> [Discord](https://discordapp.com/users/602573427228016640)
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> [Instagram](https://www.instagram.com/kyana.marckx/)
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> [Mail](mailto:kyana.marckx@gmail.com)
+
+<span class="material-symbols-outlined" style="font-size:13px; font-weight:bold; color:#D78B35">favorite </span> [Hevy](https://hevy.com/user/kiejaana03)
