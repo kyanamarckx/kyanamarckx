@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="assets/tiger.svg" style="max-width:450px; width:100%" alt="ASCII tijger" />
+  <img src="assets/tiger.svg" width="80%" alt="ASCII tijger" />
 </div>
 
 
